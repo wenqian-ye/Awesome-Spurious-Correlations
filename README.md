@@ -10,8 +10,8 @@ This repo is a collection of AWESOME things about Spurious Correlations, includi
 - [Articles](#articles)
 - [Papers](#papers)
 
----
+
 ## Articles
 
----
+
 ## Papers
