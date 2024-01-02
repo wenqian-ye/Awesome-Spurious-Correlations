@@ -7,8 +7,8 @@ This repo is a collection of AWESOME things about Spurious Correlations, includi
 
 ## Table of Contents
 
-- [Articles](##Articles)
-- [Papers](##Papers)
+- [Articles](#articles)
+- [Papers](#papers)
 
 
 ## Articles
