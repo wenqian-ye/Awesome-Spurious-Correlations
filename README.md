@@ -1,8 +1,8 @@
-# awesome-spurious-correlations
+# awesome-spurious-correlations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
-This repo is a collection of AWESOME things about Spurious Correlations, including papers, code, etc. Feel free to star and fork.
+This repo is a collection of AWESOME things about Spurious Correlations, including papers, code, etc. Watch this repository for the latest updates and **feel free to raise pull requests if you find some interesting papers**!
 
 
 ## Table of Contents
