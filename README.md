@@ -4,6 +4,16 @@
 
 This repo is a collection of AWESOME things about Spurious Correlations, including papers, code, etc. Watch this repository for the latest updates and **feel free to raise pull requests if you find some interesting papers**!
 
+Our survey paper on arxiv: [Spurious Correlations in Machine Learning: A Survey](https://arxiv.org/abs/2402.12715v1) 
+
+```
+@article{ye2024spurious,
+  title={Spurious Correlations in Machine Learning: A Survey},
+  author={Ye, Wenqian and Zheng, Guangtao and Cao, Xu and Ma, Yunsheng and Hu, Xia and Zhang, Aidong},
+  journal={arXiv preprint arXiv:2402.12715},
+  year={2024}
+}
+```
 
 ## Table of Contents
 
