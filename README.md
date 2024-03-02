@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
-This repo is a collection of AWESOME things about Spurious Correlations, including papers, code, etc. Watch this repository for the latest updates and **feel free to raise pull requests if you find some interesting papers**!
+Here is a collection of research papers and the relevant valuable open-source resources for Spurious Correlations in Machine Learning. Watch this repository for the latest updates and **feel free to raise pull requests if you find some interesting papers**!
 
 Our survey paper on arxiv: [Spurious Correlations in Machine Learning: A Survey](https://arxiv.org/abs/2402.12715v1) 
 
