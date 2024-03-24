@@ -26,6 +26,16 @@ Our survey paper on arxiv: [Spurious Correlations in Machine Learning: A Survey]
 - [Papers](#papers)
 
 
+## Datasets
+
+|  Dataset  |  #Class  |  #Sample  |  Brief Description  |  Domain  | 
+|----------------------------|------|-------------------------|-----------------------------------|--------------------------|
+| Colored MNIST |  -  |  60,000  |  Synthetic Dataset  |  Vision  |    
+| Corrupted CIFAR-10 |  -  |  60,000  |  Synthetic Dataset  |  Vision  |    
+| CelebA |  2x2  |  202,599  |  Face Attribute  |  Vision  |    
+| Waterbirds |  2x2  |  11,788  |  Bird Subset of CUB  |  Vision  |    
+
+
 ## Articles
 - [Spurious Correlations in Machine Learning](https://www.doczamora.com/spurious-correlations-in-machine-learning)
 - [Spurious Correlation: Definition, Examples & Detecting](https://statisticsbyjim.com/basics/spurious-correlation/)
