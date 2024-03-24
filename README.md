@@ -34,6 +34,23 @@ Our survey paper on arxiv: [Spurious Correlations in Machine Learning: A Survey]
 | Corrupted CIFAR-10 |  -  |  60,000  |  Synthetic Dataset  |  Vision  |    
 | CelebA |  2x2  |  202,599  |  Face Attribute  |  Vision  |    
 | Waterbirds |  2x2  |  11,788  |  Bird Subset of CUB  |  Vision  |    
+| ImageNet-9 | 9 | 5,495 | Subset of ImageNet | Vision | 
+| ImageNet-A | 200 | 7,500 | Subset of ImageNet | Vision | 
+| ImageNet-C | 75 | - | Subset of ImageNet | Vision | 
+| BAR | 6 | 2,595 | Action | Vision | 
+| NICO | 19 | 24,214 | Animal and Vehicle | Vision | 
+| MetaShift | 410 | 12,868 | Natural Images | Vision | 
+| FMOW | 63 | 1,047,691 | Satellite Images | Vision | 
+| Spawrious | 6x4 | 152,064 | Dog | Vision | 
+| CivilComments | 7 | 1,999,514 | Public Comment | Text | 
+| MultiNLI | 3x2 | 206,175 | Language Inference | Text |
+| FDCL18 | 7 | 80,000 | Abusive Behavior | Text |
+| IV-VQA | - | 657,090 | Causal VQA | VQA |
+| CV-VQA | - | 59,513 | Causal VQA | VQA |
+| ChestX-ray14 | 14 | 112,120 & Chest X-Ray | Health |
+| MIMIC-CXR | - | 377,110 | Chest X-Ray | Health |
+| CheXpert | 14 | 224,316 | Chest X-Ray | Health |
+| PadChest | 19 | 160,868 | Chest X-Ray | Health | 
 
 
 ## Articles
