@@ -47,7 +47,7 @@ Our survey paper on arxiv: [Spurious Correlations in Machine Learning: A Survey]
 | FDCL18 | 7 | 80,000 | Abusive Behavior | Text |
 | IV-VQA | - | 657,090 | Causal VQA | VQA |
 | CV-VQA | - | 59,513 | Causal VQA | VQA |
-| ChestX-ray14 | 14 | 112,120 & Chest X-Ray | Health |
+| ChestX-ray14 | 14 | 112,120 | Chest X-Ray | Health |
 | MIMIC-CXR | - | 377,110 | Chest X-Ray | Health |
 | CheXpert | 14 | 224,316 | Chest X-Ray | Health |
 | PadChest | 19 | 160,868 | Chest X-Ray | Health | 
