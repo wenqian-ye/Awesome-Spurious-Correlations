@@ -42,6 +42,8 @@ Our survey paper on arxiv: [Spurious Correlations in Machine Learning: A Survey]
 | MetaShift | 410 | 12,868 | Natural Images | Vision | 
 | FMOW | 63 | 1,047,691 | Satellite Images | Vision | 
 | Spawrious | 6x4 | 152,064 | Dog | Vision | 
+| SpuCoMNIST  | 4 | - | Synthetic Dataset | Vision | 
+| SpuCoAnimals  | 4 | - | Natural Images | Vision | 
 | CivilComments | 7 | 1,999,514 | Public Comment | Text | 
 | MultiNLI | 3x2 | 206,175 | Language Inference | Text |
 | FDCL18 | 7 | 80,000 | Abusive Behavior | Text |
