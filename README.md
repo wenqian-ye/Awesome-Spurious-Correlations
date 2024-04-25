@@ -64,3 +64,9 @@ Our survey paper on arxiv: [Spurious Correlations in Machine Learning: A Survey]
 
 
 ## Papers
+
+- [On Feature Learning in the Presence of Spurious Correlations](https://proceedings.neurips.cc/paper_files/paper/2022/file/fb64a552feda3d981dbe43527a80a07e-Paper-Conference.pdf)
+- [An Investigation of Why Overparameterization Exacerbates Spurious Correlations](http://proceedings.mlr.press/v119/sagawa20a/sagawa20a.pdf)
+
+### Multi-Modal
+- [Understanding the Robustness of Multi-modal Contrastive Learning to Distribution Shift](https://openreview.net/forum?id=rtl4XnJYBh)
